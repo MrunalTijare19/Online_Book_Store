@@ -1,0 +1,17 @@
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
+
+================== GOOGLE FONTS ==================
+
+<style> @import url('https://fonts.googleapis.com/css2?family=Abel&family=Anton&family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=Lexend+Deca:wght@100&family=Livvic:wght@100&family=Poppins:wght@100;300;400;500;600&family=Ubuntu&family=Varela+Round&display=swap'); </style>
+
+
+font-family: 'Abel', sans-serif;
+font-family: 'Anton', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+font-family: 'Livvic', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Varela Round', sans-serif;
+
+
